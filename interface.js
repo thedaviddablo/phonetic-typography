@@ -124,7 +124,7 @@ function instructions() {
 
   fill(0, 0, 40);
   if (state == 0) {
-    text("C R E A T E D    B Y    M A R K    C H A N    / /    @ M A R K C W Y", width/2, height - 40);
+    text("C R E A T E D    B Y    M A R K    C H A N    / /    @ M A R K C W Y    / /    A D A P T E D    B Y    D A V I D    D A B L O", width/2, height - 40);
   } else if (state > 0) {
     text("P R E S S    '1'    T O    R E T U R N    T O    T H E    B E G I N N I N G", width/2, height - 40);
   }
